@@ -1,4 +1,4 @@
-#Basic First Aid Q&A Model
+Basic First Aid Q&A Model
 This project presents a model that provides clear, step-by-step instructions for basic first aid scenarios. The model is designed to guide users through immediate actions, necessary follow-up care, and advice on when to seek professional help.
 
 Features
